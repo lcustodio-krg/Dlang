@@ -1,2 +1,2 @@
 # Dlang
-Basic computer science structures in D
+Basic and advanced data structures in D.
